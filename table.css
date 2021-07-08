@@ -1,0 +1,71 @@
+
+
+.a{
+    width:210px;
+    background-color: rgb(177, 175, 175);
+
+}
+
+
+
+.b{
+    background-color: orange;
+    padding: 29px;
+    margin-left: -4px;
+}
+
+.c{
+    background-color: orange;
+    padding: 30px;
+    margin-left: -3px;
+}
+
+.d{
+    background-color: orange;
+    margin-left: -3px;
+    padding: 29px;
+}
+
+.e{
+    background-color: orange;
+    margin-left: -3px;
+}
+
+.f{
+    width: 139px;
+}
+
+.g{
+    background-color: orange;
+    margin-left: -3px;
+    padding: 30.10px;
+}
+
+
+
+input{
+ 
+ padding: 28.37px;
+ background-color: rgb(247, 245, 245);
+ margin:-0.95px ;
+
+}
+
+.screen{
+    padding:35px;
+    width: 205px;
+    height:25px ;
+    font-size: 50px;
+    text-align: right;
+    background-color: black;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
